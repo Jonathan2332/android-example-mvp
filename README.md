@@ -1,4 +1,4 @@
-# !Example MVP
+# Example MVP - Android
 
 
 ### What is this project?
@@ -8,7 +8,7 @@ This project is an example using MVP pattern architecture.
 ### What was used:
 
 * [Android Studio](https://developer.android.com/studio) (IDE used to develop the app)
-* [News API](https://newsapi.org/) (API used in this project)
+* [News API](https://newsapi.org/) (API used on this project)
 
 <hr>
 
