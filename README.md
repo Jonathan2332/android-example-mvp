@@ -28,7 +28,7 @@ The english text was done by me using my knowledge, so sorry if has some error.
 
 ### O que é este projeto?
 
-Este projeto é um exemplo usando o padrão de arquitetura MVP no Android
+Este projeto é um exemplo usando o padrão de arquitetura MVP no Android. De forma muito simples, a aplicação mostra uma lista de notícias e dá a possibilidade de marcar a notícia como favorita.
 
 ### O que foi usado:
 
