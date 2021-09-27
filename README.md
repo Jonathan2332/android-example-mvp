@@ -4,7 +4,7 @@
 
 ### What is this project?
 
-This project is an example using MVP pattern architecture on Android.
+This project is an example using MVP pattern architecture on Android. In a very simple way, the app shows a list of news and gives the possibility to mark the news as favorite.
 
 ### What was used:
 
